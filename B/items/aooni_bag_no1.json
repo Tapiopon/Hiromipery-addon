@@ -1,0 +1,32 @@
+{
+    "format_version":"1.16.100",
+    "minecraft:item":{
+        "description":{
+            "identifier":"aooni:bag_1"
+        },
+        "components":{
+            "minecraft:icon":{
+                "texture":"aooni_bag_1"
+            },
+            "minecraft:display_name":{
+                "value":"地下の鍵の袋"
+            },
+            "minecraft:can_destroy_in_creative": false,
+            "minecraft:ignores_permission": true,
+            "minecraft:on_use":{
+                "on_use":{
+                    "event":"aooni:getkey_1"
+                }
+            }
+        },
+        "events": {
+            "aooni:getkey_1":{
+                "run_command":{
+                    "command":[
+                        "function aoonigetkey"
+                    ]
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "NomTom青鬼 B",
+    "description": "なんだ？",
+    "version": [0, 0, 2],
+    "uuid": "5c3795e3-586b-49a7-96e9-ca39faffc8c9",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "da",
+      "version": [1, 0, 0],
+      "uuid": "8e3f2134-ea5d-40bd-86a1-36b862d4cbdd"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "TokaTools-Manifest-Generator": ["1.8.0"]
+    }
+  }
+}

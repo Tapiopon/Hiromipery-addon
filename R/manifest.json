@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "NomTom青鬼 R",
+    "description": "なんだ？",
+    "version": [0, 0, 2],
+    "uuid": "8461e992-b2b4-4579-900b-b346c9b9d0a6",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "re",
+      "version": [1, 0, 0],
+      "uuid": "83bb0702-7aaf-4ecc-9bca-a9a99890d1d7"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "TokaTools-Manifest-Generator": ["1.8.0"]
+    }
+  }
+}
