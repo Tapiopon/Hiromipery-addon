@@ -1,0 +1,24 @@
+{
+    "format_version":"1.16.100",
+    "minecraft:item":{
+        "description":{
+            "identifier":"aooni:key_2"
+        },
+        "components":{
+            "minecraft:icon":{
+                "texture":"aooni_key_2"
+            },
+            "minecraft:display_name":{
+                "value":"5階の鍵"
+            },
+            "minecraft:can_destroy_in_creative": false,
+            "minecraft:ignores_permission": true,
+            "minecraft:block_placer":{
+                "block":"minecraft:scaffolding",
+                "use_on":[
+                    "minecraft:lapis_block"
+                ]
+            }
+        }
+    }
+}

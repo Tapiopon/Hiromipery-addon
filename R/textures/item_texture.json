@@ -1,0 +1,18 @@
+{
+    "resource_pack_name": "aooni",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "aooni_key_1":{
+            "textures": "textures/aooni/key_1"
+        },
+        "aooni_key_2":{
+            "textures": "textures/aooni/key_2"
+        },
+        "aooni_bag_1":{
+            "textures": "textures/aooni/bag_1"
+        },
+        "aooni_bag_2":{
+            "textures": "textures/aooni/bag_2"
+        }
+    }
+}

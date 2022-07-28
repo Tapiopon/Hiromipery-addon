@@ -1,0 +1,23 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "青鬼LOOT",
+    "description": "なんだ？",
+    "version": [0, 0, 1],
+    "uuid": "848ea861-f984-4a1a-86e6-7aa0dd25d118",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "re",
+      "version": [1, 0, 0],
+      "uuid": "6e0417e1-e967-4eb5-b037-6f4aaee19117"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "TokaTools-Manifest-Generator": ["1.8.0"]
+    }
+  }
+}

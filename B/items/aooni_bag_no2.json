@@ -1,0 +1,32 @@
+{
+    "format_version":"1.16.100",
+    "minecraft:item":{
+        "description":{
+            "identifier":"aooni:bag_2"
+        },
+        "components":{
+            "minecraft:icon":{
+                "texture":"aooni_bag_2"
+            },
+            "minecraft:display_name":{
+                "value":"5階の鍵の袋"
+            },
+            "minecraft:can_destroy_in_creative": false,
+            "minecraft:ignores_permission": true,
+            "minecraft:on_use":{
+                "on_use":{
+                    "event":"aooni:getkey_2"
+                }
+            }
+        },
+        "events": {
+            "aooni:getkey_2":{
+                "run_command":{
+                    "command":[
+                        "function aoonigetkey2"
+                    ]
+                }
+            }
+        }
+    }
+}
