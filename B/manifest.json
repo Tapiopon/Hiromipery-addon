@@ -1,1 +1,23 @@
-{"format_version":2,"header":{"name":"青鬼LOOT","description":"なんだ？","version":[0,0,1],"uuid":"3b86a6fa-06bc-49d8-ab9d-eee02f8777fd","min_engine_version":[1,13,0]},"modules":[{"type":"data","description":"behavior module","version":[1,0,0],"uuid":"89f39578-c1f7-4506-a2de-875cb695f6ce"}],"metadata":{"generated_with":{"TokaTools-Manifest-Generator":["1.8.0"]}}}
+{
+  "format_version": 2,
+  "header": {
+    "name": "NomTom青鬼 B",
+    "description": "なんだ？",
+    "version": [0, 0, 2],
+    "uuid": "ddeb9d00-5845-4541-aafe-19b5ab8bfc9b",
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "da",
+      "version": [1, 0, 0],
+      "uuid": "c5c9f48f-ad6c-4ba5-8c25-0362dfeffa39"
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "TokaTools-Manifest-Generator": ["1.8.0"]
+    }
+  }
+}
