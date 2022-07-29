@@ -3,7 +3,7 @@
   "header": {
     "name": "NomTom青鬼 B",
     "description": "なんだ？",
-    "version": [0, 0, 2],
+    "version": [0, 0, 3],
     "uuid": "ddeb9d00-5845-4541-aafe-19b5ab8bfc9b",
     "min_engine_version": [1, 13, 0]
   },

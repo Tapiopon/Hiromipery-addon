@@ -1,18 +1,18 @@
 {
   "format_version": 2,
   "header": {
-    "name": "NomTom青鬼 B",
+    "name": "NomTom青鬼 R",
     "description": "なんだ？",
-    "version": [0, 0, 2],
-    "uuid": "5c3795e3-586b-49a7-96e9-ca39faffc8c9",
+    "version": [0, 0, 3],
+    "uuid": "aa86e605-3927-49c4-add9-36759ff5762a",
     "min_engine_version": [1, 13, 0]
   },
   "modules": [
     {
-      "type": "data",
-      "description": "da",
+      "type": "resources",
+      "description": "re",
       "version": [1, 0, 0],
-      "uuid": "8e3f2134-ea5d-40bd-86a1-36b862d4cbdd"
+      "uuid": "99196dee-9a17-4c25-bbc3-6ffd7b653e1f"
     }
   ],
   "metadata": {
